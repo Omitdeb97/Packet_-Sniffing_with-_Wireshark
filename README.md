@@ -24,9 +24,14 @@ OCSP – Certificate status verification during HTTPS connections
 
 # Screenshots
 ![image alt](https://github.com/Omitdeb97/Packet_-Sniffing_with-_Wireshark/blob/main/http%20.png?raw=true)
-![image alt](![image](https://github.com/user-attachments/assets/6ade7b69-96e4-48f3-b50c-10f9595a9445)
+HTTP request showing header with source port: 47760 and destination port: 80 
+![image alt](https://github.com/user-attachments/assets/6ade7b69-96e4-48f3-b50c-10f9595a9445)
+DNS query for `google.com` with source port: 54328 and destination port: 53
 ![image alt](https://github.com/Omitdeb97/Packet_-Sniffing_with-_Wireshark/blob/main/Icmp.png?raw=true)
-![image alt](![image](https://github.com/user-attachments/assets/595ff979-1017-43fa-82cc-9f0138833a2a)
+Pinged Google.com and found the total length of: 20 bytes 
+
+![image alt](https://github.com/user-attachments/assets/595ff979-1017-43fa-82cc-9f0138833a2a)
+Source port: 51270 and destination port: 80 
 ![image alt](https://github.com/Omitdeb97/Packet_-Sniffing_with-_Wireshark/blob/main/ocsp.png?raw=true)
 
 
