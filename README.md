@@ -34,5 +34,8 @@ Pinged Google.com and found the total length of: 20 bytes
 Source port: 51270 and destination port: 80 
 ![image alt](https://github.com/Omitdeb97/Packet_-Sniffing_with-_Wireshark/blob/main/ocsp.png?raw=true)
 
-
+# Learnings
+- Deep packet inspection with filters
+- Understanding common protocols and their behavior
+- Basics of SSL certificate validation via OCSP
 
