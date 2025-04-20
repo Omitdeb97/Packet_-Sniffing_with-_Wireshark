@@ -23,5 +23,6 @@ TCP – 3-way handshakes and port communication
 OCSP – Certificate status verification during HTTPS connections
 
 # Screenshots
-
+![image alt](https://github.com/Omitdeb97/Packet_-Sniffing_with-_Wireshark/blob/main/http%20.png?raw=true)
+![image alt]()
 
