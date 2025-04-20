@@ -27,7 +27,7 @@ OCSP – Certificate status verification during HTTPS connections
 ![image alt](![image](https://github.com/user-attachments/assets/6ade7b69-96e4-48f3-b50c-10f9595a9445)
 ![image alt](https://github.com/Omitdeb97/Packet_-Sniffing_with-_Wireshark/blob/main/Icmp.png?raw=true)
 ![image alt](![image](https://github.com/user-attachments/assets/595ff979-1017-43fa-82cc-9f0138833a2a)
-![image alt]()
+![image alt](https://github.com/Omitdeb97/Packet_-Sniffing_with-_Wireshark/blob/main/ocsp.png?raw=true)
 
 
 
